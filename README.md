@@ -16,7 +16,6 @@ Este proyecto fue creado como práctica de maquetación básica usando:
 
 - HTML5 semántico
 - CSS3 (estilos personalizados)
-- Diseño limpio y responsive
 
 El contenido incluye:
 - Imagen representativa del plato
